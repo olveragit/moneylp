@@ -1,0 +1,13 @@
+.FooterLabel {
+    margin-right: 30px;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+}
+
+.FooterUser {
+    margin-right: 30px;
+    font-size: 20px;
+    color: green;
+    font-weight: 500;
+}

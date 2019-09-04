@@ -1,0 +1,12 @@
+.reports-wa{
+    height: 100%;
+    background-color: #d09669bf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reports-title {
+    margin: 0;
+    padding: 0;
+}
