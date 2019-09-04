@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moneylp/static/css/main.ce8b015b.chunk.css",
+    "main.js": "/moneylp/static/js/main.d3cc967c.chunk.js",
+    "main.js.map": "/moneylp/static/js/main.d3cc967c.chunk.js.map",
+    "runtime~main.js": "/moneylp/static/js/runtime~main.01cbe614.js",
+    "runtime~main.js.map": "/moneylp/static/js/runtime~main.01cbe614.js.map",
+    "static/js/2.ed2a85db.chunk.js": "/moneylp/static/js/2.ed2a85db.chunk.js",
+    "static/js/2.ed2a85db.chunk.js.map": "/moneylp/static/js/2.ed2a85db.chunk.js.map",
+    "index.html": "/moneylp/index.html",
+    "precache-manifest.5b9130ccc44c051daa08c6964919e328.js": "/moneylp/precache-manifest.5b9130ccc44c051daa08c6964919e328.js",
+    "service-worker.js": "/moneylp/service-worker.js",
+    "static/css/main.ce8b015b.chunk.css.map": "/moneylp/static/css/main.ce8b015b.chunk.css.map"
+  }
+}
